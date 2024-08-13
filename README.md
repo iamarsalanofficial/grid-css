@@ -1,1 +1,1 @@
-// Just For Grid Practice, Responsive Grid CSS Practice
+// Just For Grid Practice, Responsive Grid CSS Practice.
